@@ -1,10 +1,3 @@
-//
-//  SafePulseUITests.swift
-//  SafePulseUITests
-//
-//  Created by Hardika Regmi on 3/10/26.
-//
-
 import XCTest
 
 final class SafePulseUITests: XCTestCase {

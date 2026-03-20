@@ -1,10 +1,3 @@
-//
-//  SafePulseTests.swift
-//  SafePulseTests
-//
-//  Created by Hardika Regmi on 3/10/26.
-//
-
 import XCTest
 @testable import SafePulse
 
